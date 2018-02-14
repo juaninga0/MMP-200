@@ -1,0 +1,136 @@
+body{ background-color: grey;
+
+}
+
+#container{
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(232, 232, 232);
+	border: 1px solid black;
+
+
+
+}
+
+	.header{
+			text-align: center; 
+		
+			margin-top: 0px;
+			margin-bottom: 15px;
+			
+			
+			}
+				#title { 
+				font-size: 25px;
+				margin: 0px;
+				padding: 0px;
+				background-color: rgb(16, 66, 189);
+				text-align: left;
+				padding-left: 10px;
+				padding-right: 10px;
+				border-bottom: 2px solid black;
+
+				 }
+				#subtitle{
+				margin: 0px;
+				padding-top: 10px;
+				font-family: times new roman;
+				text-decoration: double underline;
+				font-size: 50px;
+
+				}
+
+
+#subheader{ 
+		text-align: center; 
+	 
+		font-size: 30px;
+		font-family: Helvetica;
+		}
+
+.subject{
+		
+		
+		text-align: center;
+
+		margin: 0px;
+		background-color: grey;
+		
+		
+		}
+
+#subjectmedia{
+		
+		text-align: center;
+		overflow: hidden;
+		margin: 0px;
+		background-color: grey;
+
+
+}
+
+
+
+.body{
+	margin: 15px;
+}
+
+#p1{
+	font-size: 20px;
+	margin: 0px;
+}
+
+#p1title{
+	margin: 0px;
+	font-weight: bold;
+	font-size: 30px;
+	padding-bottom: 3px;
+}
+
+
+#p2title{
+	margin: 0px;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 2px;
+	font-size: 30px;
+
+
+}
+
+
+#p2{
+	font-size: 20px;
+	text-align: left;
+	
+}
+
+.list{
+	margin: 0px;
+	padding-bottom: 20px;
+}
+
+
+
+#p3{
+	font-size: 20px;
+
+}
+
+#p3title{
+	margin: 0px;
+	font-weight: bold;
+	padding-bottom: 3px;
+	font-size: 30px;
+}
+
+
+.footer{
+	padding-top: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+#footer{ 
+	text-align: center;
+ }
